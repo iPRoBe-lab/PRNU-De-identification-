@@ -56,7 +56,7 @@ classifier
 
 * getFingerprint\_monochrome.m : Used for computing sensor
 reference patterns. Please refer to
-http://dde.binghamton.edu/download/camera_fingerprint/ for more details
+http://dde.binghamton.edu/download/camera_fingerprint/ for more details and follow their citation requirements if you use this code
 
 * NCC\_Computation\_Enhanced.m : Correlates sensor reference patterns
 with test noise residuals for Enhanced SPN 
